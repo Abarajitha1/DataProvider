@@ -36,5 +36,17 @@ public class BaseClass {
 	public void close() {
 		driver.close();
 	}
+	
+	private void abarajitha() {
+		// TODO Auto-generated method stub
+
+	}
+	
+	private void greens() {
+		// TODO Auto-generated method stub
+
+	}
+	
+	
 
 }
