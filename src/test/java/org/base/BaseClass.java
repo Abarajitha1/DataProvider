@@ -41,5 +41,18 @@ public class BaseClass {
 		// TODO Auto-generated method stub
 
 	}
+	
+	private void abarajitha() {
+		// TODO Auto-generated method stub
+
+	}
+	
+	private void greens() {
+		// TODO Auto-generated method stub
+
+	}
+	
+	
+
 
 }
